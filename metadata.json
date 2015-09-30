@@ -1,0 +1,22 @@
+{
+  "name": "webexplorer",
+  "version": "0.1.0",
+  "author": "kaija",
+  "summary": "Web Explorer Puppet module",
+  "license": "MIT",
+  "source": "https://github.com/kaija/puppet-webexplorer",
+  "project_page": "https://github.com/kaija/puppet-webexplorer",
+  "issues_url": "https://github.com/kaija/puppet-webexplorer",
+  "dependencies": [
+  
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04",
+        "14.04"
+      ]
+    }
+  ]
+}
